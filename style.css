@@ -140,6 +140,8 @@ p {
     max-width: 150px;
 }
 
+
+/* Features Section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -171,6 +173,8 @@ p {
 }
 
 /* Images */
+
+
 .search-engine-optimization img {
     max-height: 200px;
 }
