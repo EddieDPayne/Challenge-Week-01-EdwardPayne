@@ -14,7 +14,9 @@ N/A
 ## Installation
 
 
-In able to use this application the user must enter the following web address into the preferred browser or hand-held device
+In able to use this application the user must enter the following web address into the preferred browser or hand-held device:
+
+https://eddiedpayne.github.io/Challenge-Week-01-EdwardPayne/
 
 
 
